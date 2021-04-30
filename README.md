@@ -1,0 +1,5 @@
+- 👋 Salut, Je m'appelle BL4 (@BL4Z3RX)
+- 👀 Je suis interessé par le développement web, discord et minecraft
+- 🌱 En ce moment, j'apprends le développement des bots discord.
+- 💞️ Je suis administrateurs sur un discord communautaire (On joue à Rocket League, Minecraft et GTAV principalement mais on peut venir sur un autre).
+- 📫 Pour en savoir +, me mp via discord -> BL4#5231
