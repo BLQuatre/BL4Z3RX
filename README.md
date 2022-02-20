@@ -1,5 +1,4 @@
 - 👋 Salut, Je m'appelle BL4 (@BL4Z3RX)
 - 👀 Je suis interessé par le développement web, discord et minecraft
 - 🌱 En ce moment, j'apprends le développement des bots discord.
-- 💞️ Je suis administrateur sur Nesolia, un Serveur Skyblock Farm2Win
 - 📫 Pour en savoir +, me mp via discord -> BL4#0001
