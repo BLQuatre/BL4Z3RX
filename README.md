@@ -1,3 +1,3 @@
-- 👋 Salut, Je m'appelle BL4 (@BL4Z3RX)
+- 👋 Salut, Je m'appelle BL4
 - 👀 Je suis interessé par le Java et le JavaScript
 - 📫 Pour en savoir +, me mp via discord -> BL4#0001
