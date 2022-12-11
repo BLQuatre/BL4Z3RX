@@ -7,5 +7,5 @@ I started developpment at 12 and now i'm learning **Java** (*for Minecraft Plugi
 - [ValtiwiMC](https://valtiwimc.fr) (Minecraft **Skyblock** server)
 - [MagicalSky](https://magicalsky.fr) (Minecraft **Skyblock** server)
 ## Contact me !
-You can contact me on **Discord** if you want to have an **advanced developer** (*not an expert* :joy:)
+You can contact me on **Discord**
 > My discord : `BL4#0001`
