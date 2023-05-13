@@ -9,7 +9,7 @@ I started developpment at 12 and now i'm learning **Java** (*for Minecraft Plugi
 It's a **skyblock** minecraft server.  
 I'm currently administrator on this project.
 #### [MagicalSky](https://magicalsky.fr)
-It's also a **skyblock** minecraft server.
+It's also a **skyblock** minecraft server.  
 I'm currently developer on this project (I made the spells plugin)
 
 ## Contact me !
